@@ -16,6 +16,10 @@
   <a href="https://instagram.com/rohit010pro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="rohit010pro" height="30" width="40" /></a>
+  <a href="https://www.codechef.com/rohit01pro" target="blank">
+    <img align="center"
+      src="gfg.svg"
+      alt="rohit010pro" height="30" width="40" /></a>
   <a href="https://www.codechef.com/users/rohit01pro" target="blank"><img align="center"
       src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="rohit01pro" height="30"
       width="40" /></a>

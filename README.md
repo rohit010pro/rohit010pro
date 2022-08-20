@@ -16,7 +16,7 @@
   <a href="https://instagram.com/rohit010pro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="rohit010pro" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/rohit01pro" target="blank">
+  <a href="https://auth.geeksforgeeks.org/user/rohit010pro" target="blank">
     <img align="center"
       src="gfg.svg"
       alt="rohit010pro" height="30" width="40" /></a>

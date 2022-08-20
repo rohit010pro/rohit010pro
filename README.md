@@ -3,7 +3,7 @@
 
 <br />
 
-- 🌱 I’m currently learning **Web Development, DSA** 
+- 🌱 I’m currently learning **CS subjects, Web Development, DSA** 
 - 📫 How to reach me **[LinkedIn](https://www.linkedin.com/in/rohitkanojiya010)**
 
 <br />

@@ -9,12 +9,19 @@
 <br />
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left
+  <a href="https://www.linkedin.com/in/rohitkanojiya010" target="blank"><img align="center"
+      src="linkedin.svg"
+      alt="rohit010pro" height="30" width="40" /></a>
   <a href="https://twitter.com/rohit010pro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
       alt="rohit010pro" height="30" width="40" /></a>
   <a href="https://instagram.com/rohit010pro" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
+      alt="rohit010pro" height="30" width="40" /></a>
+   <a href="https://www.sololearn.com/profile/16454530" target="blank">
+    <img align="center"
+      src="sololearn.svg"
       alt="rohit010pro" height="30" width="40" /></a>
   <a href="https://auth.geeksforgeeks.org/user/rohit010pro" target="blank">
     <img align="center"
